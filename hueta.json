@@ -1,1 +1,17 @@
-{"name":"hueta","downloads":[{"title":"Schedule I Free Download (v0.4.1f5 + Online)","uploadDate":"2025-11-28T21:29:44+00:00","fileSize":"2.1 GB","uris":["https://gofile.io/d/ypA3qq"]}, {"title":"RAGDORE Free","uploadDate":"2025-11-8T21","filesize":"720 MB", "uris":["https://gofile.io/d/6GaBks"]}]}
+{
+  "name": "Hueta",
+  "downloads": [
+    {
+      "title": "RAGDORE",
+      "fileSize": "10 GB",
+      "uris": ["https://gofile.io/d/6GaBks"],
+      "uploadDate": "2025-11-08T12:00:00.000Z"
+    },
+    {
+      "title": "Schedule I - 0.4.1f5 from SteamRIP",
+      "fileSize": "2.1 GB",
+      "uris": ["https://gofile.io/d/ypA3qq"],
+      "uploadDate": "2025-11-08T09:30:00.000Z"
+    }
+  ]
+}
